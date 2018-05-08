@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/PhoneCallRecorder.iml" filepath="$PROJECT_DIR$/PhoneCallRecorder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Call-Recorder.iml" filepath="$PROJECT_DIR$/.idea/Call-Recorder.iml" />
+      <module fileurl="file://C:\Users\muicv\AndroidStudioProjects\Call-Recorder\PhoneCallRecorder.iml" filepath="C:\Users\muicv\AndroidStudioProjects\Call-Recorder\PhoneCallRecorder.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\muicv\AndroidStudioProjects\Call-Recorder\app\app.iml" filepath="C:\Users\muicv\AndroidStudioProjects\Call-Recorder\app\app.iml" />
     </modules>
   </component>
 </project>
